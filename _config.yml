@@ -1,0 +1,28 @@
+name: Test CT
+favicon: null
+layout_spectrum: 0.40622090222314
+typography_spectrum: 0.23524728952907026
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5746224743779749
+  lightness: 0.38180041243322194
+  saturation: 0.8346880064345896
+  rhythmicContrast: 0.49865553132258356
+purpose: []
